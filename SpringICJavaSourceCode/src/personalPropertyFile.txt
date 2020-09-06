@@ -1,0 +1,4 @@
+bioT.institution=Ignite Academy
+bioT.email=adg@aignitecademy.edu.ng
+springT.institution=LearnSpring Academy
+springT.email=gfg@learnspingacademy.io
